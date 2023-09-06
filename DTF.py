@@ -10,7 +10,7 @@ with open ("open.json", "r", encoding="utf-8") as f:
 dirName = os.listdir("dataset")
 dirName = [i for i in dirName if i.endswith(".png")]
 
-
+# abcdefghijklmnopqrstu
 imgArr = []
 ladelArr = []
 
